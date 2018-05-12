@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3894
     wikipedia: http://en.wikipedia.org/wiki/Bruce_Bairnsfather
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25951#Fragments-From-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
